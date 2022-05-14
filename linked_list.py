@@ -1,5 +1,6 @@
-
-
+"""
+Implementation of Linked list.
+"""
 
 class Node():
     """

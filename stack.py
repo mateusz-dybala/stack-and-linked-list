@@ -1,4 +1,8 @@
-
+"""
+Basic Stack data structure.
+Calculator for converting infix to postfix
+and claculating postfix expressions.
+"""
 
 class Stack():
     """
